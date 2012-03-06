@@ -1,4 +1,4 @@
-If you are looking at this file you have sucessfully pulled to your computer. This repository is a version control system that allows you  to have multiple versions of the same file. This capablity allows us to track changes to any project and revert back to previous versions of a file. It also allows group memeber to work on a single file simultaneously.
+If you are looking at this file you have sucessfully pulled the git repository (Alice project) to your computer. This repository is a version control system that allows you  to have multiple versions of the same file. This capablity allows us to track changes to any project and revert back to previous versions of a file. It also allows group memeber to work on a single file simultaneously.
 
 
 Welcome to the Alice Repository
